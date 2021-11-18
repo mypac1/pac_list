@@ -6,6 +6,8 @@
 ```
 https://cdn.jsdelivr.net/gh/mypac1/pac_list/whitelist.pac
 ```
+## 特性
+支持`Safrai`、`Chrome`、`Firefox`等。原作者的写法不支持Safrai
 
 ## 说明
 whitelist.pac修改自[MatcherAny的whitelist.pac](https://github.com/MatcherAny/whitelist.pac/blob/master/whitelist.pac)
