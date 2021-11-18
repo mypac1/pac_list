@@ -3,6 +3,7 @@
 
 建议使用jsdelivr进行cdn加速
 ```
+# 白名单模式
 https://cdn.jsdelivr.net/gh/mypac1/pac_list/whitelist.pac
 ```
 
