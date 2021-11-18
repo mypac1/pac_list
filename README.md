@@ -1,5 +1,5 @@
 # pac_list
-自用各种规则的pac
+各种自用pac配置文件。
 
 ## 配置地址（使用jsdelivr进行cdn加速）
 ### 白名单模式
